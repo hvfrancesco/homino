@@ -15,7 +15,7 @@ The connectors in Homino are arduino shields compatible, but the board comes in 
 How does Homino compare to Arduino?
 -----------------------------------
 
-Homino replicates almost all the features of Atmega328 based Arduino, with a few of design limitations:
+Homino replicates almost all the features of Atmega328 based Arduino, with a few design limitations:
 
 - No on-board usb-to-ttl, you will need an external usb-ttl cable to program it or a serial port adapter that can handle RS232 level switching (however auto-reset works flawlessly)
 - No ISP connector
@@ -23,7 +23,7 @@ Homino replicates almost all the features of Atmega328 based Arduino, with a few
 There is fortunately some nice additions too:
 
 - Selectable 5V/3.3V operation mode (through an old style jumper, we feared a slide switch could be more dangerous)
-- On-board RF communication based on low-cost 433Mhz radio modules like the ones from SededStudio, allowing the interoperability with current low-cost 433 MHz remote controlled devices. Homino will most likely work with all 433Mhz popular power outlet sockets.
+- On-board RF communication based on low-cost 433Mhz radio modules like the ones from SeeedStudio, allowing the interoperability with current low-cost 433 MHz remote controlled devices. Homino will most likely work with all 433Mhz popular power outlet sockets.
 Communication between several Homino boards or any other 433Mhz RF enabled microcontroller is also very easily done through VirtualWire library.
 
 
