@@ -36,6 +36,32 @@ Homino board is rather dense and have some thin routes and small gaps, so it is 
 
 ![board image for tone transfer](homino_rev_2_board.png)
 
+List of components:
+
+- PCB single sided board (you can cut 3 Homino boards from a 160x100 sheet)
+- 1 x Atmega328 MCU
+- 1 x 28 way DIL socket
+- 3 x 47uF capacitors
+- 5 x 0,1 uF ceramic capacitors
+- 2 x 22 pF ceramic capacitors
+- 1 x 5V voltage regulator
+- 1 x 3.3 V voltage regulator
+- 1 x N4001 diode
+- 2 x 1k resistor
+- 1 x 10k resistor
+- 2 x leds
+- 1 x 16Mhz crystal
+- 1 power jack (optional)
+- female pin sockets
+- 1 x 6 way male pin header
+- 1 x 3 way male pin header with jumper
+- RF transmitter and receiver modules
+
+The cost of the components is about 9,5 euros when bought in very small quantities from online distributors like Farnell or RS, if you buy larger quantities or have cheaper providers, the total cost can be quite lower. RF modules from SeeedStudio cost $4,9.
+Ideal cost including RF modules should be around 12 US$.
+
+![board image for top label](homino_rev_2_screen.png)
+
 
 Useful links
 ------------
