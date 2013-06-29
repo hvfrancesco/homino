@@ -32,7 +32,7 @@ How do I build Homino?
 
 Homino is designed to be built on a homemade custom produced pcb using single sided boards.
 We successfully built several boards using tone-transfer method using a photocopier and common light magazine coated paper, you can use transparency film, but the magazine solution proved to be the most reliable and cheapest in our experience.
-Homino board is rather dense and have some thin routes and small gaps, so it is not the easiest design to use with tone-transfer based etching, but if you're careful it works very well.
+Homino board is rather dense and has some thin routes and small gaps between them, so it is not the easiest design to use with tone-transfer based etching, but if you're careful it works very well.
 
 ![board image for tone transfer](homino_rev_2_board.png)
 
