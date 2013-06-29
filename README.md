@@ -44,6 +44,8 @@ Homino is obviously Open Hardware, and all the files are distributed under a
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a>.
 
+HVA lego-logo is property of 'HVA - hermanitos verdes architetti' (http://www.hv-a.com) and shouldn't be used without permission.
+
 
 Homino is inspired and based on other Arduino compatible projects, for example:
 
