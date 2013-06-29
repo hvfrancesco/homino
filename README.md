@@ -60,7 +60,7 @@ List of components:
 
 The cost of the components is about 9,5 euros when bought in very small quantities from online distributors like Farnell or RS, if you buy larger quantities or have cheaper providers, the total cost can be quite lower. RF modules from SeeedStudio cost $4,9.
 Ideal cost including RF modules should be around 12 US$.
-You can buy Atmega328 chip already programmed with Arduino bootloader from several distributors or Arduino online store, but if you already own an Arduino or some kind of AVR programmer you can buy bare 328 chip and save a few euros. Burning the bootloader to an Atmega using another Arduino as ISP programmer, even if you are new to Arduino world, is a cup of cake if you follow this tutorial:
+You can buy Atmega328 chip already programmed with Arduino bootloader from several distributors or Arduino online store, but if you already own an Arduino or some kind of AVR programmer you can buy bare 328 chip and save a few euros. Burning the bootloader to an Atmega using another Arduino as ISP programmer, even if you are new to Arduino world, is a piece of cake if you follow this tutorial:
 http://arduino.cc/en/Tutorial/ArduinoToBreadboard
 
 The following image is a label you can simply print on self-adhesive paper and stick on top of your Homino board before soldering the components.
