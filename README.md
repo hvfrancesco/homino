@@ -50,7 +50,8 @@ List of components:
 - 2 x 1k resistor
 - 1 x 10k resistor
 - 2 x leds (using a blue led for power and a red one linked to digital pin13)
-- 1 x 16Mhz crystal (a cheaper 16Mhz ceramic resonator can be used, and in that case you can probably omit the 22pF capacitors, but we like the crystal better)
+- 1 x 16Mhz crystal (a cheaper 16
+Mhz ceramic resonator can be used, you could choose a 3-pin resonator and in that case you can probably omit the 22pF capacitors, but we like the crystal better)
 - 1 power jack (optional)
 - female pin sockets
 - 1 x 6 way male pin header
